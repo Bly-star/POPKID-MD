@@ -10,7 +10,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=Billy%20MD|BOT)
 
 ---
 ## 𝗚𝗘𝗧 𝗙𝗥𝗘𝗘 𝗕𝗢𝗧💛
