@@ -22,7 +22,7 @@
 
 ## ⭐ **1. 𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗕𝗢𝗧**
 
-[![Fork the Repository](https://img.shields.io/badge/FORK%20REPOSITORY-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/popkidmd/POPKID-MD/fork)
+[![Fork the Repository](https://img.shields.io/badge/FORK%20REPOSITORY-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/popkidmd/Billy-MD/fork)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### **Heroku**
 
-[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/popkidmd/POPKID-MD)
+[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/popkidmd/Billy-MD)
 
 ### **Render**
 
