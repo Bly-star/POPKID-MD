@@ -6,7 +6,7 @@
 
 ---
 
-![POPKID-MD Bot Image](https://files.catbox.moe/9tzte1.jpg)
+![Billy-Md bot Image](https://files.catbox.moe/9tzte1.jpg)
 
 ---
 
@@ -83,4 +83,4 @@
 
 ## ©️ **Creator**
 
-Developed with ❤️ by **popkid**.
+Developed with ❤️ by **Billy**.
