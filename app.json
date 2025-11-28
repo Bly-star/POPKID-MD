@@ -1,6 +1,6 @@
 {
-  "name": "POPKID-MD",
-  "description": "A lightweight WhatsApp BOT by Popkid.",
+  "name": "Billy-MD",
+  "description": "A lightweight WhatsApp BOT by Billy.",
   "repository": "https://github.com/popkidmd/POPKID-MD",
 
   "env": {
@@ -11,11 +11,11 @@
 
     "OWNER_NUMBER": {
       "description": "Bot owner WhatsApp number",
-      "value": "254732297194"
+      "value": "254785779959"
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "POPKID"
+      "value": "Billy"
     },
 
     "PREFIX": {
@@ -24,7 +24,7 @@
     },
     "BOT_NAME": {
       "description": "Bot display name",
-      "value": "POPKID-MD"
+      "value": "Billy-MD"
     },
     "MODE": {
       "description": "public | private | inbox | group",
